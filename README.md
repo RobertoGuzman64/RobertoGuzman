@@ -1,6 +1,6 @@
 <div align='center'>
 
-# :love_you_gesture: Bienvenido a mi perfil de Github
+# Bienvenido a mi perfil de Github
 </div>
 
 
@@ -13,15 +13,15 @@ Mi nombre es Roberto. Cada día aprendiendo cosas nuevas y estoy abierto a todo,
  <br/>
     
   <div align='center'>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&border_radius=0%'>&nbsp;&nbsp;&nbsp;
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact&border_radius=0%'>
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=RobertoGuzman64&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&border_radius=0%'>&nbsp;&nbsp;&nbsp;
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoGuzman64&theme=graywhite&langs_count=10&layout=compact&border_radius=0%'>
   </div>
  <br/>
 
 
    <div align='center'>
-    <img height='120em' src='https://github-profile-trophy.vercel.app/?username=suku60&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=10'>&nbsp;&nbsp;&nbsp;
-  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=oldie'>
+    <img height='120em' src='https://github-profile-trophy.vercel.app/?username=RobertoGuzman64&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=10'>&nbsp;&nbsp;&nbsp;
+  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=RobertoGuzman64&theme=oldie'>
   </div>
  <br/>
 
@@ -53,15 +53,16 @@ Mi nombre es Roberto. Cada día aprendiendo cosas nuevas y estoy abierto a todo,
 </div>
 <div align='center'>
 
-# some projects
+# Algunos de mis proyectos
 ### Más reciente
-Frontend de un Videoclub de películas.
+Frontend del Videoclub de películas.
 <br/>
-<a href="https://master.dogiqax5q9mxn.amplifyapp.com/tabs/tab3" target="_blank">Angular/Ionic Movie's Website</a>  
-### Others
-Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+<a href="https://master.dsuwckp3iftx9.amplifyapp.com/" target="_blank">Enlace</a>
+
+### Otros
+Frontend de Red Social en Conjunto con compañeros del curso de Geekhubs.
 <br/>
-<a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
+<a href="https://master.dsjje3enz9xk4.amplifyapp.com/" target="_blank">Enlace</a> 
 </div>
 
 
@@ -69,7 +70,8 @@ Tomeme: a social network of memes. MERN full stack project. Frontend was my seco
 <div align='center'>
 
  <br/>
-  <a href="mailto:juanmaxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juanma-stella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:robertoguzman64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roberto-guzm%C3%A1n-dur%C3%A1-64623b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+
