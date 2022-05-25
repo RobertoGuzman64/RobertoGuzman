@@ -1,30 +1,75 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+<div align='center'>
+
+# :love_you_gesture: Bienvenido a mi perfil de Github
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+
+
+<div align='center'>
+ 
+### Desarrollador Junior Full Stack Developer.
+
+Mi nombre es Roberto. Cada día aprendiendo cosas nuevas y estoy abierto a todo, así que no dudes en contactarme para cualquier cosa. Aquí encontrarás mis proyectos.
+
+ <br/>
+    
+  <div align='center'>
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&border_radius=0%'>&nbsp;&nbsp;&nbsp;
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact&border_radius=0%'>
+  </div>
+ <br/>
+
+
+   <div align='center'>
+    <img height='120em' src='https://github-profile-trophy.vercel.app/?username=suku60&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=10'>&nbsp;&nbsp;&nbsp;
+  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=oldie'>
+  </div>
+ <br/>
+
+<div style="display: inline_block">
+
+ #
+ <br/>
+
+  <img align="center" alt="JavaScript" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypesScript" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <img align="center" alt="Git" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+  <img align="center" alt="React" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+
   
-  ##
+
+
+ <img align="center" alt="Node.js" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Sequelize" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="MySQL" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
  
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ #
+ <br/>
+</div>
+</div>
+<div align='center'>
+
+# some projects
+### Más reciente
+Frontend de un Videoclub de películas.
+<br/>
+<a href="https://master.dogiqax5q9mxn.amplifyapp.com/tabs/tab3" target="_blank">Angular/Ionic Movie's Website</a>  
+### Others
+Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+<br/>
+<a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
+</div>
+
+
+<div align='center'>
+<div align='center'>
+
+ <br/>
+  <a href="mailto:juanmaxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juanma-stella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 </div>
